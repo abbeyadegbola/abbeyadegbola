@@ -12,7 +12,7 @@
 - 🔗 [Cybersecurity Trends: What to Expect from Adversaries Beyond the Generative AI Buzz – Part Two](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz-part-two/)
 - 🔗 [Cybersecurity Trends: What to Expect from Adversaries Beyond the Generative AI Buzz – Part One](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz/) 
 
-*Check out more on [My Website](abbeyadegbola.com).*
+*Check out more on [my website](https://abbeyadegbola.com/).*
 
 ---
 
