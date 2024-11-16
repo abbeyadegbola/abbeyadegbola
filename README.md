@@ -8,18 +8,10 @@
 
 ## 🌐 Let's Connect
 
-<a href="https://linkedin.com/in/abiodunadegbola/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-<a href="https://twitter.com/el_kol" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
-</a>
-<a href="https://bsky.app/profile/abbeyadegbola.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bluesky_Logo.svg/1024px-Bluesky_Logo.svg.png" alt="Bluesky" width="30" height="30"/>
-</a>
-<a href="mailto:bt.adegbola@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="30" height="30"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abiodunadegbola/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/el_kol)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0057FF?style=flat&logoColor=white)](https://bsky.app/profile/abbeyadegbola.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bt.adegbola@gmail.com)
 
 ---
 
