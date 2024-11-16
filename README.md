@@ -6,6 +6,14 @@
 
 ---
 
+## 🌐 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abiodunadegbola/)
+- **Twitter:** [Your Twitter Profile](https://x.com/el_kol)
+- **Bluesky:** [Your Bluesky Profile](https://bsky.app/profile/abbeyadegbola.com)
+- **Email:** [Your Email Address](mailto:your-email@example.com)
+
+---
+
 ## ✍️ Latest Blog Posts and Thought Leadership Articles
 - 🔗 [Cybersecurity Trends: What to expect from Adversaries Beyond the Generative AI Buzz – Part Four](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz-part-four/) 
 - 🔗 [Cybersecurity Trends: What to Expect from Adversaries Beyond the Generative AI Buzz – Part Three](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz-part-three/) 
