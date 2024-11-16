@@ -7,10 +7,19 @@
 ---
 
 ## 🌐 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abiodunadegbola/)
-- **Twitter:** [Your Twitter Profile](https://x.com/el_kol)
-- **Bluesky:** [Your Bluesky Profile](https://bsky.app/profile/abbeyadegbola.com)
-- **Email:** [Your Email Address](mailto:your-email@example.com)
+
+<a href="https://linkedin.com/in/abiodunadegbola/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="https://twitter.com/el_kol" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+</a>
+<a href="https://bsky.app/profile/abbeyadegbola.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bluesky_Logo.svg/1024px-Bluesky_Logo.svg.png" alt="Bluesky" width="30" height="30"/>
+</a>
+<a href="mailto:bt.adegbola@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="30" height="30"/>
+</a>
 
 ---
 
