@@ -16,6 +16,7 @@
 ---
 
 ## ✍️ Latest Blog Posts and Thought Leadership Articles
+- [Breaking into Cybersecurity: Your path to an entry-level career](https://tribuneonlineng.com/breaking-into-cybersecurity-your-path-to-an-entry-level-career/)
 - [Cybersecurity Trends: What to expect from Adversaries Beyond the Generative AI Buzz – Part Four](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz-part-four/) 
 - [Cybersecurity Trends: What to Expect from Adversaries Beyond the Generative AI Buzz – Part Three](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz-part-three/) 
 - [Cybersecurity Trends: What to Expect from Adversaries Beyond the Generative AI Buzz – Part Two](https://systaltech.com/insights/cybersecurity-trends-what-to-expect-from-adversaries-beyond-the-generative-ai-buzz-part-two/)
