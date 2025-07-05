@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abbey!
 
 ## 👨‍💻 About Me
-- I'm a Cybersecurity Engineer with a strong focus on security operations, incident response, malware reverse engineering, and cloud security. I have 10 years of experience in IT with the last 4 years dedicated to cybersecurity.
+- I'm a Cybersecurity Engineer with a strong focus on security operations, incident response, malware reverse engineering, and cloud security. I have 10 years of experience in IT with the last 5 years dedicated to cybersecurity.
 - I'm a highly motivated and dedicated professional with a strong desire for continuous learning. I am [multi-certified](https://www.credly.com/users/abiodun-adegbola.ede39b92) across various technologies.
 
 ---
